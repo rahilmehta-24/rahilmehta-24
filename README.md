@@ -9,7 +9,7 @@
 -📁I'm a tech enthusiast and a self taught programmer.<br>
 -🔍I'm exploring the world of data science and AI.<br>
 -⭐I'm a passionate learner who's always willing to learn and work across various technologies and domains.<br>
--📘I'm currently into web development and python programming. Targeting towards Java.<br> 
+-📘I'm currently into web development and java programming. Targeting towards Python.<br> 
 <br>
 <h2 align="left"> My Technical Stack 💻</h2>
 
