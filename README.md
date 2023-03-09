@@ -3,7 +3,7 @@
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
-<h3> Web Designer | Python_Coder | Developer | Learner_Forever</h3>
+<h3> Data Science | Python_Coder | Developer | Learner_Forever</h3>
 <br>
 -👩‍🎓I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
 -📁I'm a tech enthusiast and a self taught programmer.<br>
@@ -16,12 +16,14 @@
 <h4> WEB DEVELOPMENT</h4><img align="right" height="275" width="450" alt="GIF" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" />
 <p><img height="35" src="https://img.icons8.com/nolan/2x/html-5.png">
 <img height="35" src="https://img.icons8.com/officel/2x/css.png">
-<img height="35" src="https://img.icons8.com/color/2x/javascript.png">
+<img height="35" src="https://img.icons8.com/color/2x/python.png">
 <img height="35" src="https://img.icons8.com/color/2x/bootstrap.png">
+<img height="35" src="https://img.icons8.com/color/2x/power-bi.png">
+<img height="35" src="https://img.icons8.com/color/2x/r.png">
   </p>
  <h4>PROGRAMMING</h4>
  <p><img height="35" src="https://img.icons8.com/color/2x/python.png">
-  <img height="35" src="https://img.icons8.com/color/2x/c-programming.png">
+  <img height="35" src="https://img.icons8.com/color/2x/r.png">
   <img height="35" src="https://img.icons8.com/color/2x/mysql-logo.png">
   </p>
   <h4> PLATFORMS</h4>
