@@ -3,13 +3,13 @@
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
-<h3> Data Science | Python_Coder | Developer | Learner_Forever</h3>
+<h3> Data Science | Python_Coder | Developer | Microsoft SQL Server </h3>
 <br>
--👩‍🎓I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.<br>
+-👩‍🎓I'm a ICT engineering graduate from Adani University.<br>
 -📁I'm a tech enthusiast and a self taught programmer.<br>
 -🔍I'm exploring the world of data science and AI.<br>
 -⭐I'm a passionate learner who's always willing to learn and work across various technologies and domains.<br>
--📘I'm currently into web development and java programming. Targeting towards Python.<br> 
+-📘I'm currently into Data Engineering field. Developing different Data Warehouse using Microsoft SQL Server and resposible for data insertion and data management.<br> 
 <br>
 <h2 align="left"> My Technical Stack 💻</h2>
 
